@@ -1,0 +1,22 @@
+#pikkus = int(input("sisesta pikkus: "))
+#laius = int(input("siselda laiust: "))
+#umbermot = 2 * (pikkus + laius)
+#pindala = pikkus * laius
+#print("ümbermõõt: ", umbermot)
+#print("laiust:", laius)
+
+nimi = (input("sisesta nimi:"))
+vanus = int(input("sisesta vanus:"))
+elukoht = (input("sisesta elukoht:"))
+lemmikfilm = (input("sisesta lemmikfilm:"))
+lemmikmuusik = (input("sisesta leemikmuusik:"))
+lemmiktoit1 = (input("sisesta oma esimene lemmiktoit:"))
+lemmiktoit2 = (input("sisesta oma teine lemmiktoit:"))
+lemmiktoit3 = (input("sisesta oma kolmas lemmiktoit:"))    
+print ("Sinu nimi:", nimi)
+print ("Sinu vanus:", vanus)
+print ("Sinu elukoht:", elukoht)
+print ("Milline sul on lemmikfilm:", lemmikfilm)
+print ("Milline sul on lemmikmuusik:", lemmikmuusik)
+print ("Sinu lemmiktoit on:", lemmiktoit1 , lemmiktoit2 , lemmiktoit3)
+ 
